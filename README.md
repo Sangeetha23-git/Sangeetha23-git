@@ -1,16 +1,14 @@
-### Hi there 👋
+ Hi there 👋
+ I am Sangeetha chinnasamy. My main interest lies in Machine Learning.I have done project using machine learning and I have implemented some techniques.
+ 
+-🌱 I’m currently learning Machine Learning and Artificial Intelligence.
 
-<!--
-**Sangeetha23-git/Sangeetha23-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-👯 I’m looking to collaborate on any ML project.
 
-Here are some ideas to get you started:
+-💬 Ask me about ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-📫 How to reach me Contact me directly on this mail sangeethachinnasamy2395@gmail.com.
+
+-😄 Pronoun you can giove one.
+
+-⚡ Fun fact learning is easy.
